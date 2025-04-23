@@ -1,14 +1,10 @@
 # Project Aphelion 🚀
-
 <p align="center" style="margin-bottom: 0;">
   <img src="assets/banner.png" alt="Project Aphelion" width="100%" style="margin-bottom: 0;"/>
 </p>
 <p style="margin-top: -20px;">
   Welcome to <strong>Project Aphelion</strong>, where we explore the edge of innovation and open-source space tech!
 </p>
-
-## 🌌 Our Mission
-Build a self-landing rocket. From scratch.
 
 
 ## 🌌 Our Mission
