@@ -1,3 +1,5 @@
+# Project Aphelion 🚀
+
 ![Project Aphelion](assets/banner.png)
 Welcome to **Project Aphelion**, where we explore the edge of innovation and open-source space tech!
 
