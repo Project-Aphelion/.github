@@ -1,11 +1,12 @@
 # Project Aphelion 🚀
 
-![Project Aphelion](assets/banner.png)
-Welcome to **Project Aphelion**, where we explore the edge of innovation and open-source space tech!
+<p align="center">
+  <img src="assets/banner.png" alt="Project Aphelion" width="100%"/>
+</p>
+<p>Welcome to <strong>Project Aphelion</strong>, where we explore the edge of innovation and open-source space tech!</p>
 
 ## 🌌 Our Mission
 Build a self-landing rocket. From scratch.
-
 ## 📂 Projects
 
 ### 🔧 [Odysseus](https://github.com/Project-Aphelion/Odysseus) – *Laying the Groundwork*  
