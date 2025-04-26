@@ -26,4 +26,4 @@ We are funded entirely out of pocket so any support means the world to us! Go ch
 
 ---
 
-🛠️ Powered by [Project-Aphelion]([https://github.com/Project-Aphelion](https://www.project-aphelion.com/))
+🛠️ Powered by [Project-Aphelion](https://www.project-aphelion.com/)
